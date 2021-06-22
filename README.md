@@ -1,5 +1,6 @@
 # Tic Tac Toe Game
 <br>
+<h1><a href='https://pages.git.generalassemb.ly/shahadalbaidhani/tic-tac/'> Tic Tac Toe demo </a></h2>
 <h2>List of technologies used in this project:</h2>
 <br>
 <ul>
